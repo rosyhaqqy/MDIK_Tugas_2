@@ -1,0 +1,7 @@
+# Agar struktur folder tetap tersimpan di Git
+touch data/.gitkeep
+touch lakehouse/bronze/.gitkeep
+touch lakehouse/silver/.gitkeep
+touch lakehouse/gold/.gitkeep
+touch warehouse/.gitkeep
+touch scripts/.gitkeep
